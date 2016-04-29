@@ -78,8 +78,6 @@ When the categories are filled in, the top and bottom are totaled separately. If
 the top is greater than or equal to 63 points, you add in a 35 point "bonus".
 The two section totals are then combined to give the overall score.
 
-That's all there is to Yahtzee, but your program can be more complicated if you
-like. Those looking for an bigger challenge should consider these additions:
 
 
 
